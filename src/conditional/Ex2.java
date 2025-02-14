@@ -12,7 +12,6 @@ public class Ex2 {
 		} else {
 			System.out.println("학교에 다니지 않는다");
 		}
-
 	}
 
 }

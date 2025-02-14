@@ -12,8 +12,6 @@ public class Quiz3 {
 		} else {
 			System.out.println("남성입니다");
 		}
-				
-			
 
 	}
 
