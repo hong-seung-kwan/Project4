@@ -22,6 +22,7 @@ public class Ex6 {
 				System.out.println("메달이 없습니다");
 		}
 		
+		
 		// switch의 제약조건 : 실수는 사용불가.
 //		float f = 1.4f;		
 //		switch(f) {
